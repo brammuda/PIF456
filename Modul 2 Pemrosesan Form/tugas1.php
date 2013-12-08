@@ -1,5 +1,4 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- COPYRIGHT 2013 RIFKI RIZKIA FUADI | RIFKI.MY.ID | brammuda.COM -->
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<title>Login | Binnervis</title>
@@ -64,7 +63,7 @@
 </head>
 <body>
 	<div id="logo">
-		<img src="logo.png">
+		<img src="logo.jpg">
 	</div>
 	<div id="header">
 		<h1>Login</h1>
